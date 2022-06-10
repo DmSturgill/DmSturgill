@@ -1,5 +1,4 @@
-
-- 👋 Hello my name is Dennis and I am currently working as a Mechanical Systems Programmer using the Axon language to 
+ 👋 Hello my name is Dennis and I am currently working as a Mechanical Systems Programmer using the Axon language to 
 perform various Analysis and Fault Detection on large amounts of Electrical metering data (kilowatts!🔌)
 
 👀In my spare time I am re-learning Web Dev using the MERN tech stack. Having used Vanilla JS in college it is my goal to learn Web Development in a modern sense
@@ -18,4 +17,5 @@ C# (small amt. for Unity Engine Scripting)
 Contact:
 
 📫 - sturg1337@gmail.com
+ 
  Linkedin: https://www.linkedin.com/in/michael-sturgill-7646211a1/
