@@ -1,8 +1,3 @@
--  Hi, I’m @DmSturgill
--  I’m interested in ...
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  How to reach me ...
 
 - 👋 Hello my name is Dennis and I am currently working as a Mechanical Systems Programmer using the Axon language to 
 perform various Analysis and Fault Detection on large amounts of Electrical metering data (kilowatts!🔌)
@@ -18,7 +13,7 @@ C++ (moderate amount),
 Java(moderate amt.), 
 Python(small amt.), 
 SQL (moderate amt.),
-C# (small amt. in Unity)
+C# (small amt. for Unity Engine Scripting)
 
 Contact:
 
