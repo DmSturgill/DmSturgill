@@ -1,5 +1,5 @@
  👋 Hello my name is Dennis and I am currently working as a Mechanical Systems Programmer using the Axon language to 
-perform various Analysis and Fault Detection on large amounts of Electrical metering data (kilowatts!🔌)
+perform/automate various Data Analysis and Fault Detection processes on large amounts of Electrical metering data (kilowatts!🔌)
 
 👀In my spare time I am re-learning Web Dev using the MERN tech stack. Having used Vanilla JS in college it is my goal to learn Web Development in a modern sense
 using the MERN stack to bring my web programming to the next level.
